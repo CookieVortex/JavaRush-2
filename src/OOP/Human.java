@@ -1,4 +1,7 @@
 package OOP;
 
-public class Human extends Terran{
+public class Human extends Entity {
+    public void speak(){
+        System.out.println("Я умею общаться.");
+    }
 }

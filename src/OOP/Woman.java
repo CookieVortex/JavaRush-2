@@ -1,4 +1,4 @@
 package OOP;
 
-public class Woman extends Human{
+public class Woman extends Terran {
 }
